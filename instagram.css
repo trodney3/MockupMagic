@@ -1,0 +1,78 @@
+.navbar {
+  height: 50px;
+  background-color: #FFFFFF;
+  width: 100%;
+  border-bottom: 1px solid rgba(0,0,0,.0975);
+  display: grid;
+  align-items: center;
+  grid-template-columns: 1fr 8fr 1fr 1fr 1fr;
+}
+
+.item {
+  height: 60%;
+}
+
+.icon {
+  place-self: center;
+  display: grid;
+}
+
+.insta-icon {
+  height: 100%;
+}
+
+.search {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #999;
+  cursor: text;
+  font-size: 14px;
+  font-weight: 300;
+  height: 100%;
+  width: 70%;
+  background: #fafafa;
+  border: solid 1px #dbdbdb;
+  font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;
+}
+
+.postsbar {
+  padding-top: 10px;
+  padding-bottom: 10px;
+  display: grid;
+  grid-template-columns: repeat(4, 80px);
+  justify-content: center;
+}
+
+.postsbar-item {
+  text-align: center;
+  font-size: 12px;
+  font-weight: 600;
+  letter-spacing: 1px;
+  color: #999;
+  font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;
+}
+
+.posts {
+  padding: 10px;
+  display:grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-template-rows: 1fr 1fr;
+  grid-gap: 10px;
+}
+
+.post {
+  background-color: #ffa76d;
+  height: 200px;
+  width: 200px;
+}
+
+body{
+  margin: 0px;
+  padding: 0px;
+}
+
+.container {
+  background-color: #fafafa;
+  height: 100vh;
+}
