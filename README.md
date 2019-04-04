@@ -9,15 +9,15 @@ In this lab you'll be given three mockups of popular websites to match. Once aga
 <!-- these will be mockups without a ton of content. Indicate that they're getting harder. -->
 <!-- try to find an alternate to pinterest -->
 #### Mockup One: Instagram
-You'll be using the html in instagram.html and adding your own styling to instagram.css.
+You'll be using the html in `instagram.html `and adding your own styling to `instagram.css`.
 ![](instagram-mockup.png)
 
 #### Mockup Two: Airbnb
-You'll be using the html in airbnb.html and adding your own styling to airbnb.css.
+You'll be using the html in `airbnb.html` and adding your own styling to `airbnb.css`.
+![](airbnb-mockup.png)
 
-
-#### Mockup Three: Pinterest
-You'll be using the html in pinterest.html and adding your own styling to pinterest.css.
+#### Mockup Three: New York Times
+You'll be using the html in `nyt.html` and adding your own styling to `nyt.css`.
 
 
 #### Stretch
@@ -29,3 +29,20 @@ You'll be using the html in pinterest.html and adding your own styling to pinter
 <!-- upperline website individual elements is flexbox -->
 <!-- flexbox could be one abstract lab and one grid lab  -->
 <!-- when i'm ready to launch into that check out the lesson plans that are written already -->
+
+
+<!-- Question:
+1. images like logos etc. Keep these in the project, do I need to find ones with particular permissions?
+2. Opinion for mockup three? personally like nyt the best
+3. said to check out lesson plans for css flexbox but where are those?
+ideas for flexbox and grid:
+https://dri.es/redesigning-a-website-using-css-grid-and-flexbox
+general opinion seems to be to use grid for the layout and flex to style the items within the grid.
+  * doing a navbar with flex is a good idea bc of how annoying they are with grid
+
+-->
+
+
+
+
+ -->
