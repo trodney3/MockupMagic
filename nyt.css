@@ -1,0 +1,158 @@
+
+
+.navbar {
+  display: grid;
+  grid-template-columns: repeat(18, minmax(50px, 1fr));
+  font-size: 8px;
+  border-top: 1px solid #ebebeb;
+  padding-left:30px;
+  padding-right: 30px;
+  font-family: nyt-franklin, helvetica, arial, sans-serif;
+  line-height: 1rem;
+  font-weight: 500;
+  justify-content: center;
+  align-items: center;
+  box-shadow: rgba(0, 0, 0, 0.28) 0px 0px 5px 1px;
+  width: 100%;
+  height: 33px;
+}
+
+body {
+  margin: 0px;
+}
+
+.item {
+  vertical-align: middle;
+  text-align: center;
+}
+
+.navbar-icon {
+  height: 30px;
+}
+
+.pagebody {
+  display: grid;
+  grid-template-columns: 4fr 1fr;
+}
+
+.left-side {
+  margin-top: 15px;
+  margin-bottom: 15px;
+  width: 100%;
+  margin-right: 15px;
+  border-right: 1px solid #ccc;
+  display: grid;
+  grid-template-rows: 2fr .5fr 1fr;
+}
+
+.section {
+  margin-bottom: 18px;
+  padding-bottom: 18px;
+  margin-left: 18px;
+  margin-right: 18px;
+  border-bottom: 1px solid #121212;
+}
+
+.caption {
+  padding-left: 18px;
+}
+
+.story {
+  padding-left: 18px;
+}
+
+#section1 {
+  display: grid;
+  grid-template-columns: 2fr 3fr;
+}
+
+#section2 {
+  display: grid;
+  grid-template-columns: 3fr 2fr;
+}
+
+#section3 {
+  display: grid;
+  grid-template-columns: 1.5fr 1fr 1fr;
+}
+
+.element {
+  width: 100%;
+  height: 100%;
+}
+
+
+.image {
+  background-color: lightgrey
+}
+
+.story h2 {
+  color: #121212;
+  font-size: 20px;
+  line-height: 1.1875rem;
+  font-family: "nyt-cheltenham";
+  letter-spacing: 0.1px;
+  margin-bottom: 5px;
+  letter-spacing: .2px;
+  padding: 0px;
+  margin-top: 0px;
+}
+
+.story ul {
+  list-style-type:none;
+  font-family: nyt-imperial;
+  font-size: 1rem;
+  line-height: 1.375rem;
+  font-style: normal;
+  letter-spacing: 0.1px;
+  color: #555;
+  margin: 0px;
+  padding: 0px;
+}
+
+.story li {
+  margin-top: 5px;
+}
+
+.story h5 {
+  font-size: 0.75rem;
+  font-size: 0.875rem;
+  line-height: 1.0625rem;
+  font-family: nyt-franklin;
+  font-weight: 500;
+  letter-spacing: 0.3px;
+  color: #999;
+}
+
+.caption h5 {
+  font-size: 0.625rem;
+  line-height: 0.75rem;
+  font-family: nyt-cheltenham-small;
+  letter-spacing: 0.2px;
+  color: #ccc;
+  font-weight: lighter;
+}
+
+#storywithborder {
+  border-left: 1px solid #ccc;
+}
+
+
+.story h1 {
+  font-size: 16px;
+  line-height: 1.1875rem;
+  font-family: nyt-cheltenham;
+  color: #A19D9D
+}
+
+.right-side {
+  padding-right: 18px;
+  padding-left: 18px;
+  display: grid;
+  grid-auto-rows: 150px;
+}
+
+.right-side .story {
+  padding: 0px;
+  border-bottom: 1px solid #ccc;
+}
