@@ -19,7 +19,7 @@ You'll be using the html in `nyt.html` and adding your own styling to `nyt.css`.
 ![](nyt-mockup.png)
 
 #### Stretch
-1. Choose your favorite mockup from above, go to the website, and add another element of content to your page. This could be images for Pinterest, CSS hover effects, comments on instagram, or house descriptions on airbnb. Style this added content so that it looks the same way it does on the website!
+1. Choose your favorite mockup from above, go to the website, and add another element of content to your page. This could be images or articles for NYT, CSS hover effects, comments on instagram, or house descriptions on airbnb. Style this added content so that it looks the same way it does on the website!
 2. Pick the website that you spend the most time on and create your own mockup based on that page! When you're done show a partner and see if they can guess what website you were modeling your page after.
 
 <!-- Question:
